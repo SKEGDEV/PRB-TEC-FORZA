@@ -1,21 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\forzaTechniqueTest\\TechniqueTest\\",
+  "WorkspaceRootPath": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\PRB-TEC-FORZA\\TechniqueTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06F07152-AB05-4A5B-9D6E-3CC338C576A9}|TechniqueTest\\TechniqueTest.csproj|c:\\users\\skegd\\onedrive\\documents\\workspace\\projects\\forzatechniquetest\\techniquetest\\techniquetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06F07152-AB05-4A5B-9D6E-3CC338C576A9}|TechniqueTest\\TechniqueTest.csproj|c:\\users\\skegd\\onedrive\\documents\\workspace\\projects\\prb-tec-forza\\techniquetest\\techniquetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06F07152-AB05-4A5B-9D6E-3CC338C576A9}|TechniqueTest\\TechniqueTest.csproj|solutionrelative:techniquetest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4290853A-C97D-4398-88E0-9E9AFFF07F78}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\skegd\\onedrive\\documents\\workspace\\projects\\forzatechniquetest\\techniquetest\\applicationlayer\\invoicelogic\\invoiceorchestlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4290853A-C97D-4398-88E0-9E9AFFF07F78}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\invoicelogic\\invoiceorchestlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4290853A-C97D-4398-88E0-9E9AFFF07F78}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\skegd\\onedrive\\documents\\workspace\\projects\\forzatechniquetest\\techniquetest\\applicationlayer\\invoicelogic\\invoicehelperlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4290853A-C97D-4398-88E0-9E9AFFF07F78}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\skegd\\onedrive\\documents\\workspace\\projects\\prb-tec-forza\\techniquetest\\applicationlayer\\invoicelogic\\invoicehelperlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4290853A-C97D-4398-88E0-9E9AFFF07F78}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\invoicelogic\\invoicehelperlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4290853A-C97D-4398-88E0-9E9AFFF07F78}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\skegd\\onedrive\\documents\\workspace\\projects\\forzatechniquetest\\techniquetest\\applicationlayer\\productlogic\\productorchestlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4290853A-C97D-4398-88E0-9E9AFFF07F78}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\skegd\\onedrive\\documents\\workspace\\projects\\prb-tec-forza\\techniquetest\\applicationlayer\\productlogic\\productorchestlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4290853A-C97D-4398-88E0-9E9AFFF07F78}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\productlogic\\productorchestlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,55 +26,40 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "InvoiceHelperLogic.cs",
-              "DocumentMoniker": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\forzaTechniqueTest\\TechniqueTest\\ApplicationLayer\\InvoiceLogic\\InvoiceHelperLogic.cs",
+              "DocumentMoniker": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\PRB-TEC-FORZA\\TechniqueTest\\ApplicationLayer\\InvoiceLogic\\InvoiceHelperLogic.cs",
               "RelativeDocumentMoniker": "ApplicationLayer\\InvoiceLogic\\InvoiceHelperLogic.cs",
-              "ToolTip": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\forzaTechniqueTest\\TechniqueTest\\ApplicationLayer\\InvoiceLogic\\InvoiceHelperLogic.cs",
+              "ToolTip": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\PRB-TEC-FORZA\\TechniqueTest\\ApplicationLayer\\InvoiceLogic\\InvoiceHelperLogic.cs",
               "RelativeToolTip": "ApplicationLayer\\InvoiceLogic\\InvoiceHelperLogic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T06:11:05.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T06:11:05.447Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\forzaTechniqueTest\\TechniqueTest\\TechniqueTest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\PRB-TEC-FORZA\\TechniqueTest\\TechniqueTest\\Program.cs",
               "RelativeDocumentMoniker": "TechniqueTest\\Program.cs",
-              "ToolTip": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\forzaTechniqueTest\\TechniqueTest\\TechniqueTest\\Program.cs",
+              "ToolTip": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\PRB-TEC-FORZA\\TechniqueTest\\TechniqueTest\\Program.cs",
               "RelativeToolTip": "TechniqueTest\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-14T06:10:54.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InvoiceOrchestLogic.cs",
-              "DocumentMoniker": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\forzaTechniqueTest\\TechniqueTest\\ApplicationLayer\\InvoiceLogic\\InvoiceOrchestLogic.cs",
-              "RelativeDocumentMoniker": "ApplicationLayer\\InvoiceLogic\\InvoiceOrchestLogic.cs",
-              "ToolTip": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\forzaTechniqueTest\\TechniqueTest\\ApplicationLayer\\InvoiceLogic\\InvoiceOrchestLogic.cs",
-              "RelativeToolTip": "ApplicationLayer\\InvoiceLogic\\InvoiceOrchestLogic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T06:09:53.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ProductOrchestLogic.cs",
-              "DocumentMoniker": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\forzaTechniqueTest\\TechniqueTest\\ApplicationLayer\\ProductLogic\\ProductOrchestLogic.cs",
+              "DocumentMoniker": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\PRB-TEC-FORZA\\TechniqueTest\\ApplicationLayer\\ProductLogic\\ProductOrchestLogic.cs",
               "RelativeDocumentMoniker": "ApplicationLayer\\ProductLogic\\ProductOrchestLogic.cs",
-              "ToolTip": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\forzaTechniqueTest\\TechniqueTest\\ApplicationLayer\\ProductLogic\\ProductOrchestLogic.cs",
+              "ToolTip": "C:\\Users\\skegd\\OneDrive\\Documents\\Workspace\\Projects\\PRB-TEC-FORZA\\TechniqueTest\\ApplicationLayer\\ProductLogic\\ProductOrchestLogic.cs",
               "RelativeToolTip": "ApplicationLayer\\ProductLogic\\ProductOrchestLogic.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-14T06:04:12.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-14T06:04:12.055Z"
             }
           ]
         }
